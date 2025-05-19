@@ -2,7 +2,7 @@
 
 NOTE: all amount fields are in kobo
 
-** Assessment_Q1.sql**
+**Assessment_Q1.sql**
 
  
 The savings_savingsaccount table, which contains all the transactions performed by users, is used to calculate each user's funding value (in kobo). I summed the confirmed amounts and grouped them by owner_id (i.e., the user) to show the total deposit for each user.
